@@ -1,16 +1,7 @@
-# exam_01
+<p>
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  <img src = "https://user-images.githubusercontent.com/125651843/221616880-fad88fdf-1b9e-4468-9901-7107b9460375.png" width=20% height=40%>
+  <img src = "https://user-images.githubusercontent.com/125651843/221616892-0c7671ac-89fe-4125-8ee7-c3d9af9576eb.png" width=20% height=40%>
+  <img src = "https://user-images.githubusercontent.com/125651843/221616905-ec4c0eff-258d-4d75-9abe-3e4854115f37.png" width=20% height=40%>
+  
+</p>
